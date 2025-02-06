@@ -88,7 +88,7 @@ Medium: 11px
   .grid {
     display: grid;
     column-gap: 6.5rem;
-    row-gap: 9.7rem;
+    row-gap: 9.6rem;
   }
   
   .grid:not(:last-child) {
