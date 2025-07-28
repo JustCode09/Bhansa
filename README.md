@@ -10,7 +10,7 @@ A responsive and elegant restaurant landing page built using HTML, CSS, and Java
 
 ---
 
-## ✨ Feature
+## ✨ Features
 
 - 🏠 **Hero Section** — A warm welcome with CTA and customer highlights  
 - 🥘 **Meals Section** — Showcases popular vegetarian and non-veg dishes  
