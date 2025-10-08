@@ -68,7 +68,7 @@ Medium: 11px
   
   body {
     font-family: "Rubik", sans-serif;
-    line-height: 2;
+    line-height: 1;
     font-weight: 402;
     color: #555;
     overflow-x: hidden;
@@ -265,6 +265,7 @@ Medium: 11px
     font-weight: 500;
   }
   
+
 
 
 
