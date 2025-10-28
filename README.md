@@ -35,6 +35,6 @@ A responsive and elegant restaurant landing page built using HTML, CSS, and Java
 
 ## 🌐 Live Demo
 
-> 🔗 Coming soon (or host using GitHub Pages, Netlify, or Vercel)
+> 🔗 (https://justcode09.github.io/Bhansa/)
 
 ---
